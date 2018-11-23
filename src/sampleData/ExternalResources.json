@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "VeteranID": "189210",
+      "ResourceName": "NAA",
+      "ResourceLink": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=997199"
+    },
+    {
+      "VeteranID": "189210",
+      "ResourceName": "AIF Project",
+      "ResourceLink": "https://www.aif.adfa.edu.au/showPerson?pid=189210"
+    },
+    {
+      "VeteranID": "189210",
+      "ResourceName": "TROVE",
+      "ResourceLink": "https://trove.nla.gov.au/result?q=James+Martin+DWYER"
+    },
+    {
+      "VeteranID": "189210",
+      "ResourceName": "Australian War Memorial",
+      "ResourceLink": "https://www.awm.gov.au/collection/P11013283"
+    }
+  ]
+}

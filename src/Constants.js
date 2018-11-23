@@ -1,0 +1,3 @@
+export const CHANGE_MAP_MODE = "CHANGE_MAP_MODE";
+export const FIND_PROFILES = "FIND_PROFILES";
+export const CHANGE_PROFILE = "CHANGE_PROFILE";

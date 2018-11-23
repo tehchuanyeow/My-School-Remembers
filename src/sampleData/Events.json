@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "VeteranID": "189210",
+      "Name": "James Martin's Hometown",
+      "Date": "1901-01-03",
+      "Coordinates": "-35.815,145.568056"
+    },
+    {
+      "VeteranID": "189210",
+      "Name": "Training in Broadmeadows Camp",
+      "Date": "1915-02-15",
+      "Coordinates": "-37.685,144.925"
+    },
+    {
+      "VeteranID": "189210",
+      "Name": "Departing with the 21st Infantry Battalion",
+      "Date": "1915-06-28",
+      "Coordinates": "-33.925278,18.423889"
+    },
+    {
+      "VeteranID": "189210",
+      "Name": "Deployed to Gallipoli",
+      "Date": "1915-09-07",
+      "Coordinates": "40.1467,26.4086"
+    },
+    {
+      "VeteranID": "189210",
+      "Name": "Evacuated to Hospital Ship 'HMHS Glenart Castle'",
+      "Date": "1915-10-25",
+      "Coordinates": "40.1467,29.4089"
+    },
+    {
+      "VeteranID": "189210",
+      "Name": "Memorial at Lone Pine Cemetery",
+      "Date": "1915-10-26",
+      "Coordinates": "40.2307,26.2871"
+    }
+  ]
+}
